@@ -31,6 +31,7 @@ body {
     font-family: 'Courier New', Courier, monospace; /* The Code / The Scribe */
     margin: 0;
     line-height: 1.6;
+    padding: 16px;
 }
 
 /* THE LENS - CHANGING THE WHITE BOXES TO GOLD GLASS */
